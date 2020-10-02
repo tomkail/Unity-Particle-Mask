@@ -1,0 +1,93 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+ 
+# =============================================== #
+# Visual Studio / MonoDevelop / Sublime generated #
+# =============================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*/.vs/*
+*/.vscode/*
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Thumbs.db.meta
+*_hcm.swatch
+
+# ============ #
+# Game #
+# ============ #
+Bin/
+Builds/
+Dev Saves/
+Auto Dev Saves/
+Manual Dev Saves/
+Logs/
+Story Logs/
+Debug Logs/
+Bug Reporting/
+Screenshots/
+Pendragon Unity Project/Pendragon/.vs/Pendragon/xs/project-cache/Assembly-CSharp-Debug.json
+Pendragon Unity Project/Pendragon/.vs/Pendragon/xs/project-cache/Assembly-CSharp-Editor-Debug.json
+Pendragon Unity Project/Pendragon/.vs/Pendragon/xs/project-cache/Assembly-CSharp-Editor-firstpass-Debug.json
+Pendragon Unity Project/Pendragon/.vs/Pendragon/xs/project-cache/Ink-Libraries-Debug.json
+Pendragon Unity Project/Pendragon/.vs/Pendragon/xs/sqlite3/storage.ide
+Pendragon Unity Project/Pendragon/.vs/Pendragon/xs/UserPrefs.xml
+db.lock
+Pendragon Unity Project/Pendragon/.vs/Pendragon/xs/sqlite3/storage.ide-shm
+Pendragon Unity Project/Pendragon/.vs/Pendragon/xs/sqlite3/storage.ide-wal
+
+
+Dev Saves/*
+
+# Generic builds
+tools/Generic Builds/*
+
+# App Store
+tools/App Store/*
+
+# GOG
+tools/GOG/Windows*
+tools/GOG/OSX*
+
+# Steamworks
+tools/steamworks_sdk/tools/ContentBuilder/builder/appcache/*
+tools/steamworks_sdk/tools/ContentBuilder/output/*
+
+# Joe: Steamworks - the following stuff is fairly arbitrarily chosen based on what seemed to create
+# the most (useless?) noise that seems to be auto-generated and keeps changing.
+tools/steamworks_sdk/tools/ContentBuilder/builder/config/config.vdf
+tools/steamworks_sdk/tools/ContentBuilder/builder/ssfn*
+tools/steamworks_sdk/tools/ContentBuilder/builder/userdata/*
+tools/steamworks_sdk/tools/ContentBuilder/content/*
+tools/steamworks_sdk/tools/ContentBuilder/builder/.crash
+tools/steamworks_sdk/tools/ContentBuilder/builder/*
+tools/steamworks_sdk/tools/ContentBuilder/output_soundtrack/*
+tools/steamworks_sdk/tools/ContentBuilder/content_soundtrack/*
+
+# Switch
+tools/Switch/*
+Pendragon Unity Project/Pendragon/SwitchIL2CPPCache/*
+Pendragon Unity Project/Pendragon/SwitchIL2CPPStats/*
+
+Pendragon/SwitchIL2CPPStats/*
